@@ -1,3 +1,4 @@
 === VAULT ALPHA ===
 content: 0xC0FFEE
-STATUS: LOCKED
+STATUS: OPEN
+
